@@ -1,0 +1,70 @@
+
+
+
+body{
+
+ max-width: 50%;
+ margin-left: 20%;
+ background-color: lightblue;;
+}
+
+.fvideo{
+    width: 100%;
+    height: 60%;
+}
+
+
+.inline video{
+    display: inline-block;
+    width: 100px;
+    
+}
+
+div{
+    display: inline-block;
+    text-align: center;
+    
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
+
+
+.container{
+    display: flex;
+}
+
+div{
+    margin: 10px;
+   
+}
+
+.inner{
+    width: 100%;
+
+}
+
+
+h1{
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+
+h1:hover{
+    color: tomato;
+}
+
+hr{
+    margin: 10px;
+}
+
+.inner:hover{
+    width: 100%;
+}
